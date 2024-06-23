@@ -7,6 +7,7 @@ My ease of learning and self-taught ability, added to my desire to continue lear
 I am looking to continue developing my profile in the technology industry while continuing to gain knowledge and add technologies to my stack.
 
 ### Techs
+JavaScript, TypeScript, React, Next, Astro, Express, Node, MongoDB, Mongoose, PostgreSQL, TypeORM.
 
 ### Contact
 - LinkedIn: Valentin Penna
