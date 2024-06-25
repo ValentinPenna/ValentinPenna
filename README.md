@@ -10,19 +10,20 @@ I am looking to continue developing my profile in the technology industry while 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=Express)
-![Postgresql](https://img.shields.io/badge/-Postgresql-222222?style=flat&logo=Express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=MongoDB)
-![Mongoose](https://img.shields.io/badge/-Mongoose-222222?style=flat&logo=Mongoose)
-![GraphQL](https://img.shields.io/badge/-GraphQL-222222?style=flat&logo=GraphQL)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
-![Astro](https://img.shields.io/badge/-Astro-222222?style=flat&logo=astro)
-JavaScript, TypeScript, React, Next, Astro, Express, Node, MongoDB, Mongoose, PostgreSQL, TypeORM.
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
+![Postgresql](https://img.shields.io/badge/-Postgresql-0000002?style=flat&logo=postgresql)
+![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=flat&logo=typeorm)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
+![Mongoose](https://img.shields.io/badge/-Mongoose-000000?style=flat&logo=Mongoose)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=GraphQL)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro)
 
 ### Contact
 - LinkedIn: Valentin Penna
