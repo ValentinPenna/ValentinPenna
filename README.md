@@ -16,7 +16,7 @@ I am looking to continue developing my profile in the technology industry while 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
-![Postgresql](https://img.shields.io/badge/-Postgresql-0000002?style=flat&logo=postgresql)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=postgresql)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=flat&logo=typeorm)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000000?style=flat&logo=Mongoose)
