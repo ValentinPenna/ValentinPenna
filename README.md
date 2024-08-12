@@ -26,7 +26,7 @@ I am looking to continue developing my profile in the technology industry while 
 ![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro)
 
 ### Contact
-- LinkedIn: Valentin Penna
+- LinkedIn: <a href="https://www.linkedin.com/in/valentin-penna-78a5832b6/" >Valentin Penna</a>
 - E-mail: valentinignaciopenna@gmail.com
 
 <img align="" height="120px" src="https://github-readme-stats.vercel.app/api?username=ValentinPenna&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
